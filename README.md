@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 👋 Hi, I’m Soumyadeep Maji
 - 🌱 I’m currently learning Full Stack Development using ReactJs NodeJs and Spring Framework
